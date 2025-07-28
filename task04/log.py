@@ -1,5 +1,3 @@
-# task 4 — build RESTful APIs using Django REST Framework
-
 # prerequisites:
 # - activated the virtual environment
 # - installed DRF using pip
@@ -79,5 +77,3 @@
 # sample entries tested:
 # - "Ichigo Doumei" by Mita Masahiro
 # - "Story of Your Life" by Ted Chiang
-
-# verified each action worked as expected, using proper request body format
